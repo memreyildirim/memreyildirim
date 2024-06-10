@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+- 🎓 I’m Computer Engineerin student in Halic University
 - 🔭 I’m currently working on Android Developing
 - 🌱 I’m currently learning Kotlin
 - 📫 You can reach me via mey1907.meylrm@gmail.com
