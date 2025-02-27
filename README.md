@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Kotlin
 - 📫 You can reach me via mey1907.meylrm@gmail.com
 
-- ## Prgoramming Languages and Technologies I Use
+- ## Programming Languages and Technologies I Use
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
