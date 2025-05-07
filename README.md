@@ -2,7 +2,7 @@
 
 - 🎓 I’m Computer Engineerin student in Halic University
 - 🔭 I’m currently working on Android Developing
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently using Kotlin
 - 📫 You can reach me via mey1907.meylrm@gmail.com
 
 - ## Programming Languages and Technologies I Use
