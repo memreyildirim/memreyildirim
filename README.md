@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🎓 I’m Computer Engineerin student in Halic University
-- 🔭 I’m currently working on Android Developing and Backend Developing
+- 🎓 I’m Software Developer 
+- 🔭 I’m currently working on Android Developing, Backend Developing and Test Automation.
 - 🌱 I’m currently using Kotlin and Java
 - 📫 You can reach me via memreyildirim18@gmail.com
 
